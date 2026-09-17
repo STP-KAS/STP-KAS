@@ -1,22 +1,29 @@
 # STP-KAS
 
-Kaspa dApp desk. Not Kaspa core. Not a dollar. Not a token sale.
+Kaspa desk. Not Kaspa core. Not a dollar. Not a token sale. **Not a product.**
 
-**Front door (start here):** [kaspa-dapps](https://github.com/STP-KAS/kaspa-dapps)
+**Front door:** [kaspa-dapps](https://github.com/STP-KAS/kaspa-dapps)
+**Statement:** [NOT-A-PRODUCT.md](https://github.com/STP-KAS/kaspa-dapps/blob/main/NOT-A-PRODUCT.md)
+**Desk prompt:** [DESK-PROMPT.md](https://github.com/STP-KAS/kaspa-master-file/blob/main/DESK-PROMPT.md)
 
-That map cuts 42 public repos down to what a builder can actually use: dual-rail settlement (native proof-of-work vs Tether-as-guest), PoC alternatives, a plan, breakpoints, and dated sources.
+Why this freeze exists: [KASPAglobal, 17 Sep 2026](https://x.com/kaspaglobal/status/2100536064683176270). A GitHub link that says it shipped is a proposal, a branch, a release, or an activation — until you open it. A node release is not wallet support. This desk does not ship wallet integrations.
+
+There is no spendable L1 stable, and no credible alternative on the horizon. KIP-21 is a consensus primitive, not a settled app-sequencing product. Until those two are settled, building real working dapps on Kaspa is not a useful spend of time or capital.
 
 | If you want | Go here |
 | --- | --- |
 | The map | [kaspa-dapps](https://github.com/STP-KAS/kaspa-dapps) |
+| Not a product | [NOT-A-PRODUCT.md](https://github.com/STP-KAS/kaspa-dapps/blob/main/NOT-A-PRODUCT.md) |
 | Freeze lab (tests) | [grok-heavy-showcase](https://github.com/STP-KAS/grok-heavy-showcase) |
 | Depeg classroom | [peglab-stp](https://github.com/STP-KAS/peglab-stp) |
 | Self-hosted till | [ishum](https://github.com/STP-KAS/ishum) |
 | BitCoffee review | [kusdt-bitcoffee](https://github.com/STP-KAS/kusdt-bitcoffee) |
-| x402 verdict | [sixpack.wtf](https://sixpack.wtf) · [repo](https://github.com/STP-KAS/sixpack.wtf) |
+| x402 verdict | [sixpack.wtf](https://sixpack.wtf) |
 | Pin encyclopedia | [kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file) |
 | Status referee | [kaspaexplained.com/status](https://kaspaexplained.com/status) |
 
-USDT has `addBlackList` / `destroyBlackFunds`. Native KAS does not. If the dApp unit can be frozen, the dApp can be frozen. Full argument in [kaspa-dapps/RAILS.md](https://github.com/STP-KAS/kaspa-dapps/blob/main/RAILS.md).
+USDT has `addBlackList` / `destroyBlackFunds`. Native KAS does not. If the dApp unit can be frozen, the dApp can be frozen.
+
+Wallet inject kit: **withdrawn.** [wallet-integration](https://github.com/STP-KAS/wallet-integration) now throws on load.
 
 [@StppStp](https://x.com/StppStp)
