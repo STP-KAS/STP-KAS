@@ -33,3 +33,7 @@ USDT has `addBlackList` / `destroyBlackFunds`. Native KAS does not. If the dApp 
 Wallet inject kit: **withdrawn.** [wallet-integration](https://github.com/STP-KAS/wallet-integration) now throws on load.
 
 [@StppStp](https://x.com/StppStp)
+
+Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.  
+Intern at https://sixpack.wtf/  
+X: https://x.com/StppStp · GitHub: https://github.com/STP-KAS
