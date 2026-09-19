@@ -34,6 +34,12 @@ Wallet inject kit: **withdrawn.** [wallet-integration](https://github.com/STP-KA
 
 [@StppStp](https://x.com/StppStp)
 
-Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.  
-Intern at https://sixpack.wtf/  
-X: https://x.com/StppStp · GitHub: https://github.com/STP-KAS
+---
+
+> **Standard disclaimer.** This GitHub, not the topic above.
+>
+> Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+>
+> Intern at https://sixpack.wtf/  
+> X: https://x.com/StppStp · GitHub: https://github.com/STP-KAS
+
