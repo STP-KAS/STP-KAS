@@ -1,4 +1,4 @@
-> **Experimental only. Not a product.** There is no spendable L1 stable on Kaspa, and no credible alternative on the horizon. Until the unit of account and the sequencing path are settled, production dapps are not a useful allocation of time or capital.
+> **Experimental only. Not a product.**
 >
 > Do not use wallet integrations on this GitHub. STP remains a clown. [DISCLAIMER.md](DISCLAIMER.md)
 
@@ -13,8 +13,6 @@ Kaspa desk. Not Kaspa core. Not a dollar. Not a token sale. **Not a product.**
 Someone posts a Kaspa GitHub link and says it shipped. Open the link. Does it show a proposal, a development branch, a release, or an activation announcement? Then check the software you use. If the feature needs wallet support, a node release alone will not put it in your wallet.
 
 Do not use wallet integrations on this GitHub. STP remains a clown. This is a delusional desk, not a wallet kit.
-
-There is no spendable L1 stable, and no credible alternative on the horizon. KIP-21 is a consensus primitive, not a settled app-sequencing product. Until those two are settled, building real working dapps on Kaspa is not a useful spend of time or capital.
 
 | If you want | Go here |
 | --- | --- |
